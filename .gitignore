@@ -1,0 +1,35 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment Files
+.env
+
+# Log Files
+*.log
+
+# Operating System files
+.DS_Store        # macOS
+Thumbs.db        # Windows
+
+# Build directories
+/dist/
+build/
+
+# React specific
+/.cache/
+.parcel-cache/
+
+# Dependency directories
+bower_components/
+jspm_packages/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp          # Vim temporary files
+*.sublime-workspace
+
+# Other files
+*.tgz            # Tarballs
